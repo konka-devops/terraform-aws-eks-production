@@ -1,1 +1,1 @@
-# terraform-aws-eks-production
+# Production-ready EKS Cluster using Terraform
